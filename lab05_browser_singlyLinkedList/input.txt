@@ -1,0 +1,24 @@
+NAVIGATE http://wikipedia.com
+NAVIGATE http://reddit.com
+NAVIGATE https://github.com
+NAVIGATE http://myspace.com
+bad input
+HISTORY
+BACK
+BACK
+HISTORY
+FORWARD
+FORWARD
+FORWARD
+FORWARD
+HISTORY
+BACK
+BACK
+NAVIGATE https://sony.com
+NAVIGATE https://apple.com
+BACK
+NAVIGATE https://google.com
+FORWARD
+HISTORY
+BACK
+HISTORY

@@ -1,0 +1,33 @@
+WAIT Andrew
+WAIT Anna
+INSPECTION
+WAIT Claire
+WAIT Alice
+PICK_UP 2
+WAIT Megan
+WAIT McKenzie
+WAIT Trisha
+WAIT Morgan
+DROP_OFF 2
+PICK_UP 10
+Bad Input line 1
+WAIT Lucas
+WAIT Allie
+WAIT Ellie
+Another Bad input line 2
+WAIT Chase
+WAIT Sarah
+WAIT Grace
+WAIT Connor
+WAIT Peyton
+WAIT Paul
+INSPECTION Program will still detect this line as a valid command
+WAIT Noah
+PICK_UP 4
+Yet another bad input line 3
+INSPECTION
+DROP_OFF 50
+DROP_OFF 1
+INSPECTION
+PICK_UP 1
+INSPECTION

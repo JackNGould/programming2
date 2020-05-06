@@ -1,0 +1,9 @@
+ARRIVE Lydia Johnson 37 sleep_deprivation 1
+ARRIVE Grant Johnson 0 cries_at_night 2
+ARRIVE Grigori Rasputin 47 everything 9
+COUNT
+NEXT
+TREAT
+NEXT
+TREAT
+COUNT
